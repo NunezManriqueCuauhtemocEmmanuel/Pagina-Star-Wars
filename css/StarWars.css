@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: url(../imagen/19098.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: ;
+    text-align: center;
+    color: #fff;
+}
+
+.menu{
+width: 100%;
+background: rgb(103, 153, 194);
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+.menu li a{
+padding: 10px 20px;
+display: inline-block;
+color: #fff;
+text-decoration: none;    
+}
+
+.menu li a:hover{
+background: url(../imagen/op.gif);
+background-repeat: no-repeat;
+background-position: center;
+color: rgb(255, 255, 255);
+}
+
+.historia h2{
+    text-align: center;
+}
+
+.historia{
+height: 45%;
+width: 700px;
+background: rgb(203, 226, 255);
+padding: 8px;
+margin: 5px;
+border-radius: 10px;
+color: rgb(0, 0, 0);
+border: 2px solid rgb(0, 0, 0);
+}
+
+.historia img{
+    padding: 10px;
+}
+
+.jedi h2{
+text-align: center;
+}
+
+.jedi{
+    background: rgb(7, 90, 48);
+    color: #fff;
+    padding: 9px;
+    margin: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    height: 45%;
+    width: 450px;
+}
+
+.sith h2{
+    text-align: center;
+    }
+    
+.sith{
+    background: rgb(247, 47, 33);
+    color: #fff;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 9px;
+    margin: 10px;
+    border-radius: 10px;
+    height: 45%;
+    width: 450px;
+    display: inline-block;
+    float: right;
+    position: relative;
+    bottom: 440px;
+    right: 20%;
+}
+footer{
+    color: #fff;
+}
+img{
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}

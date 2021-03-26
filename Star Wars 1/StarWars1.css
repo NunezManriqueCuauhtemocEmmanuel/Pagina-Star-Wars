@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: url(../fondos/fondo1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: ;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.menu{
+
+background: rgb(103, 153, 194);
+list-style: none;
+margin: 15px;
+padding: 0px;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+.menu li a{
+padding: 10px 20px;
+display: inline-block;
+color: #fff;
+text-decoration: none;    
+}
+
+.menu li a:hover{
+background: url(../imagen/op.gif);
+background-repeat: no-repeat;
+background-position: center;
+color: rgb(255, 255, 255);
+}
+
+.historia h2{
+    text-align: center;
+}
+
+.historia{
+height: 45%;
+width: 700px;
+background: rgb(53, 53, 53);
+padding: 8px;
+margin: 5px;
+border-radius: 10px;
+color: #fff;
+border: 2px solid rgb(255, 255, 255);
+}
+
+.historia img{
+    padding: 10px;
+    height: 60%;
+}
+
+.poster, .fondo{
+    height: 45%;
+    padding: 9px;
+    margin: 9px;
+    border: 1px solid #fff;
+}
+
+footer{
+    color: #fff;
+}

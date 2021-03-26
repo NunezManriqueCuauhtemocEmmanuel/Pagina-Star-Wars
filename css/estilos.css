@@ -1,0 +1,57 @@
+@font-face{
+    font-family: 'miFuente';
+    src: url(../fuentes/Stjldbl1.ttf);
+}
+@font-face{
+    font-family: 'Mand';
+    src: url(../fuentes/mandalore.ttf);
+}
+@font-face{
+    font-family: 'SOlo';
+    src: url(../fuentes/soloist1.ttf);
+}
+@font-face{
+    font-family: 'rebe';
+    src: url(../fuentes/Rebellion.otf);
+}
+@font-face{
+    font-family: 'rog';
+    src: url(../fuentes/TrajanusBricks.ttf);
+}
+
+#fuentep{
+    font-family: 'miFuente';
+    font-size: 36px;
+}
+#subti{
+    font-family: 'miFuente';
+    font-size: 22px;
+}
+#nom{
+    font-family: 'miFuente';
+    font-size: 16px;
+}
+#awek{
+    font-family: 'miFuente';
+    font-size: 14px;
+}
+#mandalor{
+    font-family: 'Mand';
+    font-size: 20px;
+}
+#sold{
+    font-family: 'SOlo';
+    font-size: 16px;
+}
+#reb{
+    font-family: 'rebe';
+    font-size: 16px;
+}
+#mis{
+    font-family: 'rog';
+    font-size: 12px;
+}
+#tit{
+    font-family: 'rog';
+    font-size: 36px;
+}
